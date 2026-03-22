@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Malek
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Malek" alt="Typing SVG" />
+</h1>
 
 🎓 Final-Year Industrial Electronics Engineering Student  
 🇨🇦 PFE (Final-Year Project) Intern at TELUQ University, Montreal (Artificial Intelligence) 
