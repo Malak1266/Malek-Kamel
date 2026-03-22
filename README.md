@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Malek;Final-Year+Industrial+Electronics+Engineering+Student;CA+PFE+Intern+at+TELUQ+University,+Montreal;Passionate+about+AI,+Computer+Vision+%26+Medical+Applications" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Malek</h1>
+<h3 align="center">Final-Year Industrial Electronics Engineering Student</h3>
+<h3 align="center">CA PFE Intern at TELUQ University, Montreal (Artificial Intelligence)</h3>
+<h3 align="center">Passionate about AI, Computer Vision & Medical Applications</h3>
 
 🎓 Final-Year Industrial Electronics Engineering Student  
 🇨🇦 PFE (Final-Year Project) Intern at TELUQ University, Montreal (Artificial Intelligence) 
