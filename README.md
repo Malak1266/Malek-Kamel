@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi, I'm Malek</h1>
-<h3 align="center">Final-Year Industrial Electronics Engineering Student</h3>
+<h3 align="center"> 🎓 Final-Year Industrial Electronics Engineering Student</h3>
 <h3 align="center">CA PFE Intern at TELUQ University, Montreal (Artificial Intelligence)</h3>
-<h3 align="center">Passionate about AI, Computer Vision & Medical Applications</h3>
-
-🎓 Final-Year Industrial Electronics Engineering Student  
-🇨🇦 PFE (Final-Year Project) Intern at TELUQ University, Montreal (Artificial Intelligence) 
-🤖 Passionate about AI, Computer Vision & Medical Applications  
+<h3 align="center"> 🤖 Passionate about AI, Computer Vision & Medical Applications</h3>
 
 ---
 
