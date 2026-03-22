@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Malek
 
 🎓 Final-Year Industrial Electronics Engineering Student  
-🇨🇦 Future PFE Student at TELUQ University (Artificial Intelligence)  
+🇨🇦 PFE (Final-Year Project) Intern at TELUQ University, Montreal (Artificial Intelligence) 
 🤖 Passionate about AI, Computer Vision & Medical Applications  
 
 ---
